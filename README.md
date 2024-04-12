@@ -2,7 +2,7 @@
 
 CSharp implementation of nslookup functionality. Mainly useful in scenarios where you need .NET instead of a BOF (beacon).
 
-Code originally from Doug Bell over at C# Corner. Modified to use non-deprecated DNS GetEntryHost.
+Code originally from Doug Bell over at C# Corner. https://www.c-sharpcorner.com/article/simple-nslookup-implementation-in-C-Sharp/. Modified to use non-deprecated DNS GetEntryHost.
 
 Either build with VS or dotnet CLI : 
 
